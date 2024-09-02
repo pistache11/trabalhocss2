@@ -1,0 +1,290 @@
+body{
+    background-image: linear-gradient(to bottom, #222222, #c4c4c4);
+}
+img{
+    width: 60%;
+}
+main{
+    color: white;
+}
+.bagulim{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    border-radius: 25px;
+    background-color: #9fa6b2;
+}
+header{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size:xx-large;
+    height: 100px;
+    background-position: right;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-color: rgb(31, 31, 31);
+    text-align: center;
+    color: white;
+    border-radius: 25px;
+    background-image: url("../img/poggers.webp");
+    margin-bottom: 10px;
+}
+.headler{
+    position: sticky;
+    width: 100%;
+    margin-top: 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+main{
+    background-size: 100%;
+}
+.griditem1{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.griditem2{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.griditem3{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.griditem4{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.griditem5{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.griditem6{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 10px;
+
+    color: rgb(8, 8, 8);
+    border-radius: 25px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+
+.fig {
+
+    max-width: 1000px;
+}
+
+.fig img {
+    width: 100%;
+    height: 90%;
+}
+.grid1item1{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid1item2{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid1item3{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid1item4{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid1item5{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid1item6{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid1item7{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}.grid1item8{
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column-gap: 10px;
+    color: rgb(8, 8, 8);
+    border-radius: 25px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+.grid > h3{
+    color: yellow;
+    justify-content: center;
+    margin-top: 20%;
+}
+.goge > img{
+    max-width: 80px;
+    max-height: 100px;
+}
+.goge > p{
+    margin-top: 18px;
+}
+.goge{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    max-width: 450px;
+    border-radius: 25px;
+
+    
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-column-gap: 10px;
+    color: rgb(8, 8, 8);
+    border-radius: 25px;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: right;
+}
+fieldset > input{
+    background-color: rgb(228, 228, 228);
+    width: 420px;
+    height: 50px;
+    border-radius: 20px;
+}
+fieldset{
+    border: 0;
+    max-width: max-content;
+    margin: 0 auto;
+}
+.marola{
+    color: white;
+    margin: 0 auto;
+    max-width: max-content;
+}
+.legenda {
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+.CONTATO{
+    grid-area: contato ;
+}
+.redes{
+    grid-area: redes;
+}
+.sociais{
+    grid-area: sociais;
+}
+footer{
+    text-align: center;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(73, 73, 73);
+    color: white;
+    height: auto;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: (1fr, 1fr, 1fr);
+    grid-template-areas:
+    "contato    redes   sociais";
+    margin-left: 40px;
+    margin-right: 40px;
+}
+p{
+    font-size: x-large;
+}
+@media(max-width: 800px){
+    .grid2{
+    grid-template-columns: 1fr 1fr;
+    }
+    .grid1{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (max-width: 680px) {
+    footer{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "contato"
+        "redes"
+        "sociais";
+    }
+
+}
